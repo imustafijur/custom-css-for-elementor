@@ -35,17 +35,17 @@ Add custom CSS to:
 
 ### How do I add page-specific CSS?
 
-Go to Elementor Page Settings > Advanced tab > Soovex Custom CSS section.
+Navigate to **Elementor Page Settings > Advanced > Soovex Custom CSS** to add custom CSS for an individual page.
 
 ### Why isn't my CSS working?
 
-1. Check user role permissions
-2. Verify CSS syntax
-3. Ensure proper selector usage
+1. Check that your user role has the necessary permissions.
+2. Make sure your CSS syntax is correct.
+3. Verify that you are using the correct CSS selectors.
 
 ## Screenshots
 
-1. Custom CSS controls in Elementor interface.
+1. Custom CSS controls in the Elementor interface.
 
 ## Changelog
 
